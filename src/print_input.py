@@ -6,3 +6,11 @@
 #############################
 
 # Write code here:
+print("April 7th.")
+name = input("What is your name? ")
+print(f"Hello {name}!")
+day = input("How was your day? ")
+print(f"Why was it {day}?")
+
+
+
